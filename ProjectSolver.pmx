@@ -38,7 +38,7 @@
           <relations/>
           <functions/>
           <language_translations/>
-          <variable name="Requirement_Gathering_Completed" is_private="false" is_enabled="true" type="String" uuid="aec63339-9c95-4064-823b-9a0be5dec018" is_read_only="false">
+          <variable name="Requirement_Gathering_Completed" is_private="false" is_enabled="true" type="Boolean" uuid="aec63339-9c95-4064-823b-9a0be5dec018" is_read_only="false">
             <property_values/>
             <language_translations/>
           </variable>
@@ -48,19 +48,19 @@
             <relations/>
             <functions/>
             <language_translations/>
-            <variable name="Customer_Interaction" is_private="false" is_enabled="true" type="String" uuid="e6cd473a-7aca-4c91-b79e-b91abd4c2991" is_read_only="false">
+            <variable name="Customer_Interaction" is_private="false" is_enabled="true" type="Boolean" uuid="e6cd473a-7aca-4c91-b79e-b91abd4c2991" is_read_only="false">
               <property_values/>
               <language_translations/>
             </variable>
-            <variable name="Use_Case_Analysis" is_private="false" is_enabled="true" type="String" uuid="c3a09768-42e6-4e40-924c-14cb203785f2" is_read_only="false">
+            <variable name="Use_Case_Analysis" is_private="false" is_enabled="true" type="Boolean" uuid="c3a09768-42e6-4e40-924c-14cb203785f2" is_read_only="false">
               <property_values/>
               <language_translations/>
             </variable>
-            <variable name="Requirement_Document" is_private="false" is_enabled="true" type="String" uuid="7004823b-d301-413f-a765-5a39f1c2ce51" is_read_only="false">
+            <variable name="Requirement_Document" is_private="false" is_enabled="true" type="Boolean" uuid="7004823b-d301-413f-a765-5a39f1c2ce51" is_read_only="false">
               <property_values/>
               <language_translations/>
             </variable>
-            <variable name="Reqmt_Doc_Review" is_private="false" is_enabled="true" type="String" uuid="f734e2ca-9b98-4e0a-845b-774e438f05f4" is_read_only="false">
+            <variable name="Reqmt_Doc_Review" is_private="false" is_enabled="true" type="Boolean" uuid="f734e2ca-9b98-4e0a-845b-774e438f05f4" is_read_only="false">
               <property_values/>
               <language_translations/>
             </variable>
@@ -119,7 +119,7 @@
           <relations/>
           <functions/>
           <language_translations/>
-          <variable name="System_Design_Completed" is_private="false" is_enabled="true" type="String" uuid="3d745b67-67d7-4497-91e9-4153f7f67461" is_read_only="false">
+          <variable name="System_Design_Completed" is_private="false" is_enabled="true" type="Boolean" uuid="3d745b67-67d7-4497-91e9-4153f7f67461" is_read_only="false">
             <property_values/>
             <language_translations/>
           </variable>
@@ -129,19 +129,19 @@
             <relations/>
             <functions/>
             <language_translations/>
-            <variable name="Architectural_Design_Doc" is_private="false" is_enabled="true" type="String" uuid="010d9a93-7b8b-4665-b4bf-da8e7c8110bc" is_read_only="false">
+            <variable name="Architectural_Design_Doc" is_private="false" is_enabled="true" type="Boolean" uuid="010d9a93-7b8b-4665-b4bf-da8e7c8110bc" is_read_only="false">
               <property_values/>
               <language_translations/>
             </variable>
-            <variable name="System_Design_Doc" is_private="false" is_enabled="true" type="String" uuid="206ba7f6-d515-4e86-ac01-e9b1c07a8449" is_read_only="false">
+            <variable name="System_Design_Doc" is_private="false" is_enabled="true" type="Boolean" uuid="206ba7f6-d515-4e86-ac01-e9b1c07a8449" is_read_only="false">
               <property_values/>
               <language_translations/>
             </variable>
-            <variable name="Design_Review" is_private="false" is_enabled="true" type="String" uuid="5aa98f07-0d64-4ed5-b423-aacf1e5774b4" is_read_only="false">
+            <variable name="Design_Review" is_private="false" is_enabled="true" type="Boolean" uuid="5aa98f07-0d64-4ed5-b423-aacf1e5774b4" is_read_only="false">
               <property_values/>
               <language_translations/>
             </variable>
-            <variable name="Technology_Review" is_private="false" is_enabled="true" type="String" uuid="25171c1e-56c3-4dfb-b2b7-a1e175e751d0" is_read_only="false">
+            <variable name="Technology_Review" is_private="false" is_enabled="true" type="Boolean" uuid="25171c1e-56c3-4dfb-b2b7-a1e175e751d0" is_read_only="false">
               <property_values/>
               <language_translations/>
             </variable>
