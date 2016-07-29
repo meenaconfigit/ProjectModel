@@ -178,6 +178,10 @@
             </group>
           </group>
         </group>
+        <variable name="NewVariable" is_private="false" is_enabled="true" type="Boolean" uuid="be1d5c9c-49fe-48f0-bda7-a61464db71bd" is_read_only="false">
+          <property_values/>
+          <language_translations/>
+        </variable>
       </group>
       <rules/>
       <relations/>
