@@ -64,6 +64,53 @@
               <property_values/>
               <language_translations/>
             </variable>
+            <group name="Activities" is_private="false" is_enabled="true" uuid="4b28531e-35a4-4365-90d3-983729699827" is_read_only="false">
+              <property_values/>
+              <rules/>
+              <relations/>
+              <functions/>
+              <language_translations/>
+              <variable name="Interact_Customer" is_private="false" is_enabled="true" type="Boolean" uuid="06d1f1de-08f5-45ae-a5be-46383a11343b" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Get_System_Design" is_private="false" is_enabled="true" type="Boolean" uuid="6fd4f565-d7c8-44ab-8a78-65072a9fb2a1" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Get_Scope_Design" is_private="false" is_enabled="true" type="Boolean" uuid="c4778b0c-6b40-43d6-888f-0767ef046e02" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Identify_Use_Cases" is_private="false" is_enabled="true" type="Boolean" uuid="170c4bf1-e016-4e92-8c2f-eeb891a41c34" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Identify_Functional_Requirements" is_private="false" is_enabled="true" type="Boolean" uuid="64e31ddf-8fa3-409a-a17e-88cdf24baf24" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Identify_Non_Functional_Requirements" is_private="false" is_enabled="true" type="Boolean" uuid="52a45247-fcf0-4052-8ac9-2d372ee67a24" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Identify_UI_Requirements" is_private="false" is_enabled="true" type="Boolean" uuid="b8bf1296-bd4b-4f48-a11b-3fbfaa0e7639" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Create_Requirement_Specification_Doc" is_private="false" is_enabled="true" type="Boolean" uuid="ffbf670e-3e42-4297-a6cd-fa010c207c09" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Review_Reqmt_Spec_Doc" is_private="false" is_enabled="true" type="Boolean" uuid="d928f157-7ce5-40e9-9b86-d8eb4134d7eb" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Customer_Sign_Reqmt_Spec_Doc" is_private="false" is_enabled="true" type="Boolean" uuid="d0533725-32e4-4452-95c2-bd2e9f6926a2" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+            </group>
           </group>
         </group>
       </group>
