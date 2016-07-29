@@ -145,6 +145,37 @@
               <property_values/>
               <language_translations/>
             </variable>
+            <group name="Activities" is_private="false" is_enabled="true" uuid="8b220195-61ea-44db-96b1-6a6e60ca5bca" is_read_only="false">
+              <property_values/>
+              <rules/>
+              <relations/>
+              <functions/>
+              <language_translations/>
+              <variable name="Identify_Architectural_Design" is_private="false" is_enabled="true" type="Boolean" uuid="a912720b-6f0d-4a29-a693-192923f05c07" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Identify_Module_Design" is_private="false" is_enabled="true" type="Boolean" uuid="6e4bb8a1-9edc-4fcd-8b02-906d99160205" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Indentify_Non_Functional_Reqmnt_Design" is_private="false" is_enabled="true" type="Boolean" uuid="70e6273c-6faa-4211-987a-d8a21c51d9ec" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Identify_UI_Design" is_private="false" is_enabled="true" type="Boolean" uuid="9b43b8bf-5cd3-4cbc-beba-43994d0299cc" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Create_Design_Doc" is_private="false" is_enabled="true" type="Boolean" uuid="8d9ea0bf-c93f-409e-8009-5f586f1c53cd" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+              <variable name="Review_Design_Doc" is_private="false" is_enabled="true" type="Boolean" uuid="7bcee2db-f96c-4472-82fa-a897891647b8" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
+            </group>
           </group>
         </group>
       </group>
