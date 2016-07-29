@@ -113,6 +113,40 @@
             </group>
           </group>
         </group>
+        <group name="System_Design_Completed" is_private="false" is_enabled="true" uuid="6f15f75e-61c6-457b-b8e7-297346207508" is_read_only="false">
+          <property_values/>
+          <rules/>
+          <relations/>
+          <functions/>
+          <language_translations/>
+          <variable name="System_Design_Completed" is_private="false" is_enabled="true" type="String" uuid="3d745b67-67d7-4497-91e9-4153f7f67461" is_read_only="false">
+            <property_values/>
+            <language_translations/>
+          </variable>
+          <group name="Level2Questions" is_private="false" is_enabled="true" uuid="b45661a0-94f6-49a9-a723-3703026db539" is_read_only="false">
+            <property_values/>
+            <rules/>
+            <relations/>
+            <functions/>
+            <language_translations/>
+            <variable name="Architectural_Design_Doc" is_private="false" is_enabled="true" type="String" uuid="010d9a93-7b8b-4665-b4bf-da8e7c8110bc" is_read_only="false">
+              <property_values/>
+              <language_translations/>
+            </variable>
+            <variable name="System_Design_Doc" is_private="false" is_enabled="true" type="String" uuid="206ba7f6-d515-4e86-ac01-e9b1c07a8449" is_read_only="false">
+              <property_values/>
+              <language_translations/>
+            </variable>
+            <variable name="Design_Review" is_private="false" is_enabled="true" type="String" uuid="5aa98f07-0d64-4ed5-b423-aacf1e5774b4" is_read_only="false">
+              <property_values/>
+              <language_translations/>
+            </variable>
+            <variable name="Technology_Review" is_private="false" is_enabled="true" type="String" uuid="25171c1e-56c3-4dfb-b2b7-a1e175e751d0" is_read_only="false">
+              <property_values/>
+              <language_translations/>
+            </variable>
+          </group>
+        </group>
       </group>
       <rules/>
       <relations/>
