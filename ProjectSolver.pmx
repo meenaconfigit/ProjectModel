@@ -32,12 +32,39 @@
         <relations/>
         <functions/>
         <language_translations/>
-        <group name="Level1" is_private="false" is_enabled="true" uuid="98958092-192a-486a-9fa4-bd09be8de052" is_read_only="false">
+        <group name="Requirements_Gathering_Completed" is_private="false" is_enabled="true" uuid="98958092-192a-486a-9fa4-bd09be8de052" is_read_only="false">
           <property_values/>
           <rules/>
           <relations/>
           <functions/>
           <language_translations/>
+          <variable name="Requirement_Gathering_Completed" is_private="false" is_enabled="true" type="String" uuid="aec63339-9c95-4064-823b-9a0be5dec018" is_read_only="false">
+            <property_values/>
+            <language_translations/>
+          </variable>
+          <group name="Level2Questions" is_private="false" is_enabled="true" uuid="f6e43651-b8a0-44d7-82dd-c86bdd39292b" is_read_only="false">
+            <property_values/>
+            <rules/>
+            <relations/>
+            <functions/>
+            <language_translations/>
+            <variable name="Customer_Interaction" is_private="false" is_enabled="true" type="String" uuid="e6cd473a-7aca-4c91-b79e-b91abd4c2991" is_read_only="false">
+              <property_values/>
+              <language_translations/>
+            </variable>
+            <variable name="Use_Case_Analysis" is_private="false" is_enabled="true" type="String" uuid="c3a09768-42e6-4e40-924c-14cb203785f2" is_read_only="false">
+              <property_values/>
+              <language_translations/>
+            </variable>
+            <variable name="Requirement_Document" is_private="false" is_enabled="true" type="String" uuid="7004823b-d301-413f-a765-5a39f1c2ce51" is_read_only="false">
+              <property_values/>
+              <language_translations/>
+            </variable>
+            <variable name="Reqmt_Doc_Review" is_private="false" is_enabled="true" type="String" uuid="f734e2ca-9b98-4e0a-845b-774e438f05f4" is_read_only="false">
+              <property_values/>
+              <language_translations/>
+            </variable>
+          </group>
         </group>
       </group>
       <rules/>
