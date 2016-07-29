@@ -26,6 +26,20 @@
     </compile_options>
     <property_values/>
     <product_model_structure>
+      <group name="Questions" is_private="false" is_enabled="true" uuid="7136a994-490d-429a-a0cc-61dd7088cb6d" is_read_only="false">
+        <property_values/>
+        <rules/>
+        <relations/>
+        <functions/>
+        <language_translations/>
+        <group name="Level1" is_private="false" is_enabled="true" uuid="98958092-192a-486a-9fa4-bd09be8de052" is_read_only="false">
+          <property_values/>
+          <rules/>
+          <relations/>
+          <functions/>
+          <language_translations/>
+        </group>
+      </group>
       <rules/>
       <relations/>
       <functions/>
