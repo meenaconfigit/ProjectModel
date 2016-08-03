@@ -179,6 +179,10 @@
                 <property_values/>
                 <language_translations/>
               </variable>
+              <variable name="Review_Test_Design" is_private="false" is_enabled="true" type="Boolean" uuid="e863a469-c352-46ed-899e-d127341a7f0c" is_read_only="false">
+                <property_values/>
+                <language_translations/>
+              </variable>
             </group>
           </group>
         </group>
