@@ -186,6 +186,13 @@
             </group>
           </group>
         </group>
+        <group name="Implementation_Completed" is_private="false" is_enabled="true" uuid="199d0d7e-582f-4fe7-a2cf-5aaaaea6786b" is_read_only="false">
+          <property_values/>
+          <rules/>
+          <relations/>
+          <functions/>
+          <language_translations/>
+        </group>
       </group>
       <rules/>
       <relations/>
