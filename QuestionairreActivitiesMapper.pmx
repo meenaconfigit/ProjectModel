@@ -38,6 +38,17 @@
           <relations/>
           <functions/>
           <language_translations/>
+          <variable name="BuildPrototype" is_private="false" is_enabled="true" type="Boolean" uuid="bc0bdd55-420f-415a-bf1c-713b0367d798" is_read_only="false">
+            <property_values/>
+            <language_translations/>
+          </variable>
+          <group name="Detail_Questions" is_private="false" is_enabled="true" uuid="5aa38e63-f9e7-4a43-889b-5c8ae6bd08ba" is_read_only="false">
+            <property_values/>
+            <rules/>
+            <relations/>
+            <functions/>
+            <language_translations/>
+          </group>
         </group>
       </group>
       <rules/>
