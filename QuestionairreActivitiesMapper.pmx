@@ -72,6 +72,10 @@
             </group>
           </group>
         </group>
+        <variable name="Topic" is_private="false" is_enabled="true" type="String" uuid="8409181a-ec91-43bc-ae40-ca811dce7757" is_read_only="false">
+          <property_values/>
+          <language_translations/>
+        </variable>
       </group>
       <rules/>
       <relations/>
