@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- DOCTYPE workspace SYSTEM "modeler.dtd" -->
-<workspace version="58">
+<workspace version="59">
   <product_model name="QuestionairreActivitiesMapper" uuid="e69daa59-2522-4876-a2da-0a2bc7e99439">
     <compile_options>
       <property_values>
@@ -73,6 +73,10 @@
           </group>
         </group>
         <variable name="Topic" is_private="false" is_enabled="true" type="String" uuid="8409181a-ec91-43bc-ae40-ca811dce7757" is_read_only="false">
+          <property_values/>
+          <language_translations/>
+        </variable>
+        <variable name="Aq" is_private="false" is_enabled="true" type="Integer" uuid="6f5ba6c6-3cea-461b-a539-3032a7615fcc" is_read_only="false">
           <property_values/>
           <language_translations/>
         </variable>
