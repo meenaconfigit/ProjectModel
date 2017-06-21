@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- DOCTYPE workspace SYSTEM "modeler.dtd" -->
+<workspace version="58">
+  <product_model name="Flower" uuid="d1eea5bf-caf3-49b7-b3bd-9a76189defbe">
+    <compile_options>
+      <property_values>
+        <property_value name="cache_size">100</property_value>
+        <property_value name="dynamic_vt">false</property_value>
+        <property_value name="exp_static">true</property_value>
+        <property_value name="no_warnings">false</property_value>
+        <property_value name="preserve_memory">false</property_value>
+        <property_value name="sort_rules">3</property_value>
+        <property_value name="static_vt">true</property_value>
+        <property_value name="support_pct">60</property_value>
+        <property_value name="table_size">100</property_value>
+        <property_value name="timeout">-1</property_value>
+        <property_value name="tob_cache_size">100</property_value>
+        <property_value name="tob_daog_preprocessor">true</property_value>
+        <property_value name="tob_preserve_memory">false</property_value>
+        <property_value name="tob_split">true</property_value>
+        <property_value name="tob_table_size">100</property_value>
+        <property_value name="tob_varorder">-1</property_value>
+        <property_value name="varorder">-1</property_value>
+        <property_value name="verbose_level">false</property_value>
+      </property_values>
+    </compile_options>
+    <property_values/>
+    <product_model_structure>
+      <variable name="petals" is_private="false" is_enabled="true" type="String" uuid="568edb54-2113-442f-80dd-c4a1598c8797" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="pollen" is_private="false" is_enabled="true" type="String" uuid="a5dcfff7-d731-4acf-914f-3b7e80cc35bf" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="stem" is_private="false" is_enabled="true" type="String" uuid="cef6108c-1895-40f5-922b-cae1e2b2829b" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="NewVariable" is_private="false" is_enabled="true" type="String" uuid="24bcd849-4ddc-455b-94b0-1f4d6d2ce262" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="NewVariable_2" is_private="false" is_enabled="true" type="String" uuid="00726b77-b833-48a2-b072-99f1bbcd1c19" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="NewVariable_3" is_private="false" is_enabled="true" type="String" uuid="147725da-358c-412c-a844-e53d48d100a8" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="NewVariable_4" is_private="false" is_enabled="true" type="String" uuid="d006f07a-7310-4492-b084-21032c2bbb70" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="NewVariable_5" is_private="false" is_enabled="true" type="String" uuid="1f25440b-665b-450e-bfe1-67d321fae588" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="NewVariable_6" is_private="false" is_enabled="true" type="String" uuid="2cf0e9ec-632e-46e6-9cd5-50a8ba6df249" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="NewVariable_7" is_private="false" is_enabled="true" type="String" uuid="5389eb82-c198-436d-88e6-13f15d3416b0" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="NewVariable_8" is_private="false" is_enabled="true" type="String" uuid="4acfbb42-351b-4fa7-9a2b-250a14a741ff" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="Colour" is_private="false" is_enabled="true" type="Color" uuid="b13d4814-e897-42d6-ad39-4eb2c153b1d9" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="IsBlossom" is_private="false" is_enabled="true" type="Boolean" uuid="3ea89890-de3d-429a-93a0-f1a122bec3da" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <rules/>
+      <relations>
+        <relation name="NewRelation" is_enabled="true" uuid="2897210e-60cc-4bce-84fd-4a0eb3c518fe" is_read_only="false">
+          <relation_columns>
+            <relation_column variable_uuid="568edb54-2113-442f-80dd-c4a1598c8797" variable_name="petals"/>
+            <relation_column variable_uuid="a5dcfff7-d731-4acf-914f-3b7e80cc35bf" variable_name="pollen"/>
+          </relation_columns>
+          <relation_values>
+            <relation_row>
+              <relation_value>oval</relation_value>
+              <relation_value>dot</relation_value>
+            </relation_row>
+            <relation_row>
+              <relation_value>circle</relation_value>
+              <relation_value>pigment</relation_value>
+            </relation_row>
+          </relation_values>
+        </relation>
+      </relations>
+      <functions/>
+    </product_model_structure>
+    <variable_types>
+      <type name="Color" uuid="f94bc290-978c-4e1d-be76-54b94dfc2c6b" is_read_only="false">
+        <type_values>
+          <type_value name="Red" uuid="e26e44c5-f711-44c0-a319-aa6303690a21">
+            <property_values/>
+            <language_translations/>
+          </type_value>
+          <type_value name="Green" uuid="29ab7a68-4178-4b03-b03a-b9b659c6eaba">
+            <property_values/>
+            <language_translations/>
+          </type_value>
+          <type_value name="Blue" uuid="9ef3922d-318a-4b49-be6c-fb2e342833c6">
+            <property_values/>
+            <language_translations/>
+          </type_value>
+        </type_values>
+      </type>
+      <type name="NewCustomType" uuid="f367a6fc-e39a-47b2-8629-6bd0996daa08" is_read_only="false">
+        <type_values/>
+      </type>
+    </variable_types>
+    <property_groups>
+      <property_group group="product_model">
+        <properties/>
+      </property_group>
+      <property_group group="groups">
+        <properties>
+          <property name="Name" type="String" export_property="true" uuid="8acd921d-3473-4bee-9c8f-09f260d22101" is_read_only="false" builtin="true">
+            <description>The name of the group. Group names must start with a letter or an underscore (_), followed by letters, digits or underscores.</description>
+          </property>
+          <property name="Description" type="String" export_property="true" uuid="509466d9-4def-408e-bdb2-f9b9e5d9cb82" is_read_only="false" builtin="true">
+            <description>Description of group. Used for internal documentation of the model.</description>
+          </property>
+          <property name="FullyQualifiedName" type="String" export_property="true" uuid="addbb353-484a-4a1e-8b79-ac3a93e9066d" is_read_only="false" builtin="true">
+            <description>The Fully Qualified Name of the group.</description>
+          </property>
+          <property name="Private" type="Boolean" export_property="true" uuid="cd734a47-e467-4d80-a829-6dcb0e671ff6" is_read_only="false" builtin="true">
+            <description>When a group is private, all variables in the group and all sub-groups are private. Thus, the content of a private group is not included in the VT file, but any rules that bind variables inside and outside the group remain in effect.</description>
+          </property>
+        </properties>
+      </property_group>
+      <property_group group="variables">
+        <properties>
+          <property name="Name" type="String" export_property="true" uuid="b7528dad-a0b6-4b76-9531-06a1903ff97c" is_read_only="false" builtin="true">
+            <description>The name of the variable. Variable names must start with a letter or an underscore (_), followed by letters, digits or underscores.</description>
+          </property>
+          <property name="Description" type="String" export_property="true" uuid="7e158664-4184-428f-9830-535afeaa6396" is_read_only="false" builtin="true">
+            <description>Description of variable. Used for internal documentation of the model.</description>
+          </property>
+          <property name="FullyQualifiedName" type="String" export_property="true" uuid="83544365-9fa0-4967-ba6c-d2aa5a5e8427" is_read_only="false" builtin="true">
+            <description>The Fully Qualified Name of the variable.</description>
+          </property>
+          <property name="Private" type="Boolean" export_property="true" uuid="38a35d44-a9a5-489a-b1b9-d8498b8c68f5" is_read_only="false" builtin="true">
+            <description>A private variable is not included in the VT file, but it can still be used in rules. Making the variable private will make the VT file smaller.</description>
+          </property>
+          <property name="Bound" type="Integer" export_property="true" uuid="e2e1b3dd-4f33-4d84-be10-c23b83bf21b1" is_read_only="false" builtin="true">
+            <description>The upper bound for variables of type Range. The value of range variables must be in the interval from 0 to the number given by this property.</description>
+          </property>
+        </properties>
+      </property_group>
+      <property_group group="values">
+        <properties>
+          <property name="Name" type="String" export_property="true" uuid="c536caba-6e9a-4ddc-9847-88dc296b0507" is_read_only="false" builtin="true">
+            <description>The enum value. Enumeration values can be any string. The only restrictions is that they have to be unique within the type.</description>
+          </property>
+          <property name="Description" type="String" export_property="true" uuid="c705803d-6ca7-4161-acf5-1017f26cc1c7" is_read_only="false" builtin="true">
+            <description>Description of value. Used for internal documentation of the model.</description>
+          </property>
+          <property name="FullyQualifiedName" type="String" export_property="true" uuid="e5eb21f1-19af-4673-adb6-96a6a4e1c47f" is_read_only="false" builtin="true">
+            <description>The Fully Qualified Name of the Value.</description>
+          </property>
+        </properties>
+      </property_group>
+      <property_group group="rules">
+        <properties/>
+      </property_group>
+      <property_group group="relations">
+        <properties/>
+      </property_group>
+      <property_group group="functions">
+        <properties/>
+      </property_group>
+    </property_groups>
+    <variable_orders/>
+    <languages/>
+  </product_model>
+</workspace>
