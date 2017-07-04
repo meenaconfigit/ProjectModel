@@ -28,7 +28,11 @@
     <product_model_structure>
       <group name="Questions" is_private="false" is_enabled="true" uuid="862c04a2-ba4f-4171-8d32-4fac1c9eb012" is_read_only="false">
         <property_values/>
-        <rules/>
+        <rules>
+          <rule name="NewRule" uuid="b384d86d-69d7-419e-abe5-5faa9235ce20" is_enabled="true" is_read_only="false">
+            <ruleexpr>true</ruleexpr>
+          </rule>
+        </rules>
         <relations/>
         <functions/>
         <language_translations/>
@@ -77,6 +81,10 @@
           <language_translations/>
         </variable>
         <variable name="Aq" is_private="false" is_enabled="true" type="Integer" uuid="6f5ba6c6-3cea-461b-a539-3032a7615fcc" is_read_only="false">
+          <property_values/>
+          <language_translations/>
+        </variable>
+        <variable name="question" is_private="false" is_enabled="true" type="String" uuid="06385271-2e2c-40e4-86a5-a5ad293e374f" is_read_only="false">
           <property_values/>
           <language_translations/>
         </variable>
